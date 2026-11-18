@@ -1,0 +1,6 @@
+{
+  "name": "Bedrock 2M FPS",
+  "description": "Minecraft Bedrock launcher with 2,000,000 FPS turbo booster engine, RenderDragon tuning, texture packs, skin studio, and real-time voxel benchmark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
